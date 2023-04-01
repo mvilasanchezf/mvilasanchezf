@@ -3,6 +3,8 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mvilasanchezf&label=Profile%20views&color=0e75b6&style=flat" alt="mvilasanchezf" /> </p>
 
+<h3 align="left">About me:</h3>
+
 - 🔭 I have collaborated in: [3DOM](http://3dom.es/)
 
 - 🌱 I’m currently learning: **Data Engineering => Informatica Powercenter / Informatica Cloud Data Integration**
