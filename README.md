@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Martín Vilasánchez Freijomil</h1>
 <h3 align="center">A passionate Multi platform developer's student from Spain.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mvilasanchezf&label=Profile%20views&color=0e75b6&style=flat" alt="mvilasanchezf" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=mvilasanchezf&label=Profile%20views&color=0e75b6&style=flat" alt="mvilasanchezf" /> </p>
 
 - 🌱 I’m currently learning **data engineering => informatica powercenter / cloud data integration**
 
-<h3 align="center">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/mvilasanchezf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mvilasanchezf" height="30" width="40" /></a>
 </p>
