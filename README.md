@@ -7,7 +7,7 @@
 
 - 🔭 I have collaborated in: [3DOM](http://3dom.es/)
 
-- 🌱 I’m currently learning/working: **Data Analyst => Informatica Powercenter / Informatica Cloud Data Integration**
+- 🌱 I’m currently working: **Business Applications Engineer => Oracle Data Integrator**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
